@@ -2,103 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84248c38-e83f-4c9a-8d24-69f112019c12" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/styles/site/minty.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/affix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/bootstrap-3.3.5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/bootstrap-3.3.5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/popover.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/scrollspy.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/scrollspy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/tab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap/tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap/transition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap-compass.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap-mincer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap-sprockets.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_alerts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_badges.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_breadcrumbs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_button-groups.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_component-animations.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_dropdowns.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_glyphicons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_input-groups.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_modals.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_navs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_pager.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_panels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_popovers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_progress-bars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_responsive-embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_responsive-utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_scaffolding.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_thumbnails.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_wells.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_alerts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_center-block.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_hide-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_opacity.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_panels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_progress-bar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_reset-filter.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_tab-focus.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_text-overflow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/site.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/styles/site.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/site/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/styles/site/_layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/site/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/styles/site/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layouts/default.pug" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/default.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -112,29 +16,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/layouts/default.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2139">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
-            </state>
-          </provider>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/styles/site/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2254">
-              <caret line="98" column="71" selection-start-line="98" selection-start-column="71" selection-end-line="98" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/styles/site.scss">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -161,6 +52,7 @@
         <option value="$PROJECT_DIR$/public/styles/site/_layout.scss" />
         <option value="$PROJECT_DIR$/public/styles/site/minty.scss" />
         <option value="$PROJECT_DIR$/public/styles/site.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -201,41 +93,6 @@
             <path>
               <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoodBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FoodBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525555421313</updated>
-      <workItem from="1525555424837" duration="3107000" />
+      <workItem from="1525555424837" duration="4191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3107000" />
+    <option name="totallyTimeSpent" value="4191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -336,11 +193,6 @@
     <entry file="file://$PROJECT_DIR$/routes/views/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/bootstrap/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-69">
@@ -365,22 +217,8 @@
     <entry file="file://$PROJECT_DIR$/templates/views/index.pug">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/styles/site/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2254">
-          <caret line="98" column="71" selection-start-line="98" selection-start-column="71" selection-end-line="98" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/styles/site/_layout.scss">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layouts/default.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2139">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/styles/site/minty.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -389,10 +227,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/styles/site/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="98" column="71" selection-start-line="98" selection-start-column="71" selection-end-line="98" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layouts/default.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/styles/site.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
