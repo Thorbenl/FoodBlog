@@ -121,10 +121,10 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="797" />
-    <option name="width" value="1130" />
-    <option name="height" value="1088" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-43" />
+    <option name="width" value="1420" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -173,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/old/FoodBlog-master" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />

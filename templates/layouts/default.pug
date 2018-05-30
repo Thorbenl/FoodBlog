@@ -52,6 +52,9 @@ html
 							span.navbar-toggler-icon
 					#navResponsive.collapse.navbar-collapse
 						ul.navbar-nav
+							if user
+								if user.SecretPage
+									li.nav-item: a.nav-link(href='/secret') Secret page
 							each link in navLinks
 								li.nav-item(class=(section == link.key ? 'active' : null)): a.nav-link(href=link.href)= link.label
 						ul.nav.navbar-nav.ml-auto
