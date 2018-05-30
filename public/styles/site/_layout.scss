@@ -21,3 +21,20 @@
     max-width: 100%;
     height: auto;
 }
+
+.post img {
+  float: left;
+  margin-right: 20px;
+}
+
+.blog-index {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.post-index {
+  padding: 30px;
+  position: relative;
+  flex: 0 0 50%;
+}
