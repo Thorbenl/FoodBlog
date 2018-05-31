@@ -6052,6 +6052,22 @@ h1, h2, h3, h4 {
   font-family: "Montserrat", sans-serif;
   font-weight: 800; }
 
+p {
+  font-family: "Lato", sans-serif !important;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 2; }
+
+h2 {
+  font-weight: 600; }
+
+a:link, a:visited {
+  color: #9F8CB9; }
+
+.list-group-item.active {
+  background-color: #C6EDE8;
+  border-color: #C6EDE8; }
+
 .no-padding {
   padding: 0px; }
 
@@ -6105,7 +6121,7 @@ h1, h2, h3, h4 {
   background: #C6EDE8;
   cursor: pointer; }
 
-.post-index img {
+.post-index img, .post img {
   max-width: 100%;
   width: 100%;
   margin-bottom: 20px; }
