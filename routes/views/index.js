@@ -7,7 +7,7 @@ exports = module.exports = function (req, res) {
 	var locals = res.locals;
 
 	// Init locals
-	locals.section = 'blog';
+	locals.section = 'home';
 	locals.filters = {
 		category: req.params.category,
 	};
@@ -59,7 +59,7 @@ exports = module.exports = function (req, res) {
 
 		var q = keystone.list('Post').paginate({
 			page: req.query.page || 1,
-			perPage: 10,
+			perPage: 3,
 			maxPages: 10,
 			filters: {
 				state: 'published',

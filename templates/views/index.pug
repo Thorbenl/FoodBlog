@@ -2,36 +2,24 @@ extends ../layouts/default
 
 mixin post(post)
 	.post-index(data-ks-editable=editable(user, { list: 'Post', id: post.id }))
-		h2: a(href='/blog/post/' + post.slug)= post.title
-		p.lead.text-muted Posted 
-			if post.author
-				| by #{post.author.name.first}
 		if post.image.exists
 			img(src=post._.image.fit(160,160)).img.pull-right
-		p!= post.content.brief
+		if post.publishedDate && post.author
+			p.lead.text-muted
+				| Posted by #{post.author.name.first} on #{post._.publishedDate.format('MMMM Do, YYYY')} 
+		h2: a(href='/blog/post/' + post.slug)= post.title
 		if post.content.extended
-			p.read-more: a(href='/blog/post/' + post.slug) Read more...
+			p.read-more: a(href='/blog/post/' + post.slug) Check out the recipe →
 
 block content
-	.container: .jumbotron
+	.container: .heading
 		h1 The FoodBlog
-		p Check out our new recipes
+		p The best place to find recipes for <br/>the best meals with amazing taste and suitable for students... <br/>because we all poor.
+
+	.container: .jumbotron.no-padding
 		
-		hr
 		.blog-index
 						each post in data.posts.results
 							+post(post)
 					
 		hr
-		if user && user.canAccessKeystone
-			p
-				a(href='/keystone').btn.btn-lg.btn-primary Open the
-		else
-			p We have created a default Admin user for you with the email <strong>thorben.untamed93@gmail.com</strong> and the password <strong>akaishu</strong>.
-			p
-				a(href='/keystone/signin', style='margin-right: 10px').btn.btn-lg.btn-primary Sign in
-				|  to use 
-		
-		hr
-		p Remember to <a href='https://github.com/keystonejs/keystone' target='_blank'>Star KeystoneJS on GitHub</a> and
-			| <a href='https://twitter.com/keystonejs' target='_blank'>follow @keystonejs</a> on twitter for updates.
